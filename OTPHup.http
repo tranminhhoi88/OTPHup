@@ -1,0 +1,6 @@
+@OTPHup_HostAddress = http://localhost:5270
+
+GET {{OTPHup_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
