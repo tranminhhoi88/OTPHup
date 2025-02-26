@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OTPHup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb48d58d84221affd0ca0bd725ba17e4f639944c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b385b9e6eecd03e11b1e22ea0d95a4fd67a78b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("OTPHup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OTPHup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
