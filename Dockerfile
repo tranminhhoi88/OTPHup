@@ -12,7 +12,7 @@ WORKDIR /src
 COPY ["OTPHup.csproj", "./"]
 RUN dotnet restore "OTPHup/OTPHup.csproj"
 COPY . .
-WORKDIR "/OTPHup"
+WORKDIR "OTPHup"
 RUN dotnet build "OTPHup.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 FROM build AS publish
